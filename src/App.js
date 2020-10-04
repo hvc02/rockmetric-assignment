@@ -7,7 +7,7 @@ import "./App.css";
 const App = () => {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Route exact path="/" component={Landing} />
         <Route exact path="/chart" component={Highchart} />
         <Route exact path="/dashboard" component={Dashboard} />
