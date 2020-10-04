@@ -1,12 +1,8 @@
 import React, { useState, useEffect } from "react";
+
 import { AgGridColumn, AgGridReact } from "ag-grid-react";
 import "ag-grid-community/dist/styles/ag-grid.css";
-import "ag-grid-community/dist/styles/ag-theme-balham.css";
-
-const gridStyles = {
-  width: "40vw",
-  height: "70vh",
-};
+import "ag-grid-community/dist/styles/ag-theme-material.css";
 
 export const Dashboard = () => {
   const [rowData, setRowData] = useState([]);
@@ -24,7 +20,13 @@ export const Dashboard = () => {
   }, []);
 
   return (
-    <div className="ag-theme-balham" style={gridStyles}>
+    <div
+      className="ag-theme-material"
+      style={{
+        width: 600,
+        height: 600,
+      }}
+    >
       <AgGridReact rowData={rowData} rowSelection="multiple">
         <AgGridColumn
           field="date"
