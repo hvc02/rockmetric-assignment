@@ -7,8 +7,6 @@ import "./App.css";
 const App = () => {
   return (
     <>
-      {/* <Dashboard />
-        <Highchart /> */}
       <BrowserRouter>
         <Route exact path="/" component={Landing} />
         <Route exact path="/chart" component={Highchart} />
