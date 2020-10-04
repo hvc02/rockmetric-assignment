@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rockmetric-assignment/static/css/main.7f487194.chunk.css",
+    "main.js": "/rockmetric-assignment/static/js/main.d13007cc.chunk.js",
+    "main.js.map": "/rockmetric-assignment/static/js/main.d13007cc.chunk.js.map",
+    "runtime-main.js": "/rockmetric-assignment/static/js/runtime-main.e88b5064.js",
+    "runtime-main.js.map": "/rockmetric-assignment/static/js/runtime-main.e88b5064.js.map",
+    "static/css/2.0d230983.chunk.css": "/rockmetric-assignment/static/css/2.0d230983.chunk.css",
+    "static/js/2.d20f288a.chunk.js": "/rockmetric-assignment/static/js/2.d20f288a.chunk.js",
+    "static/js/2.d20f288a.chunk.js.map": "/rockmetric-assignment/static/js/2.d20f288a.chunk.js.map",
+    "index.html": "/rockmetric-assignment/index.html",
+    "precache-manifest.e4bcd0c2db8c70d7e67fc39e2eeaf166.js": "/rockmetric-assignment/precache-manifest.e4bcd0c2db8c70d7e67fc39e2eeaf166.js",
+    "service-worker.js": "/rockmetric-assignment/service-worker.js",
+    "static/css/2.0d230983.chunk.css.map": "/rockmetric-assignment/static/css/2.0d230983.chunk.css.map",
+    "static/css/main.7f487194.chunk.css.map": "/rockmetric-assignment/static/css/main.7f487194.chunk.css.map",
+    "static/js/2.d20f288a.chunk.js.LICENSE.txt": "/rockmetric-assignment/static/js/2.d20f288a.chunk.js.LICENSE.txt",
+    "static/media/undraw_.svg": "/rockmetric-assignment/static/media/undraw_.5e09ece6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e88b5064.js",
+    "static/css/2.0d230983.chunk.css",
+    "static/js/2.d20f288a.chunk.js",
+    "static/css/main.7f487194.chunk.css",
+    "static/js/main.d13007cc.chunk.js"
+  ]
+}
