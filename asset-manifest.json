@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/rockmetric-assignment/static/css/main.7f487194.chunk.css",
-    "main.js": "/rockmetric-assignment/static/js/main.17ef5a86.chunk.js",
-    "main.js.map": "/rockmetric-assignment/static/js/main.17ef5a86.chunk.js.map",
+    "main.css": "/rockmetric-assignment/static/css/main.2d5b04fb.chunk.css",
+    "main.js": "/rockmetric-assignment/static/js/main.e92899b0.chunk.js",
+    "main.js.map": "/rockmetric-assignment/static/js/main.e92899b0.chunk.js.map",
     "runtime-main.js": "/rockmetric-assignment/static/js/runtime-main.e88b5064.js",
     "runtime-main.js.map": "/rockmetric-assignment/static/js/runtime-main.e88b5064.js.map",
     "static/css/2.0d230983.chunk.css": "/rockmetric-assignment/static/css/2.0d230983.chunk.css",
     "static/js/2.d20f288a.chunk.js": "/rockmetric-assignment/static/js/2.d20f288a.chunk.js",
     "static/js/2.d20f288a.chunk.js.map": "/rockmetric-assignment/static/js/2.d20f288a.chunk.js.map",
     "index.html": "/rockmetric-assignment/index.html",
-    "precache-manifest.f21f1840a6fef1eb7d84a157cf63a679.js": "/rockmetric-assignment/precache-manifest.f21f1840a6fef1eb7d84a157cf63a679.js",
+    "precache-manifest.e507b3af9e4b81a61c6c35e26372749d.js": "/rockmetric-assignment/precache-manifest.e507b3af9e4b81a61c6c35e26372749d.js",
     "service-worker.js": "/rockmetric-assignment/service-worker.js",
     "static/css/2.0d230983.chunk.css.map": "/rockmetric-assignment/static/css/2.0d230983.chunk.css.map",
-    "static/css/main.7f487194.chunk.css.map": "/rockmetric-assignment/static/css/main.7f487194.chunk.css.map",
+    "static/css/main.2d5b04fb.chunk.css.map": "/rockmetric-assignment/static/css/main.2d5b04fb.chunk.css.map",
     "static/js/2.d20f288a.chunk.js.LICENSE.txt": "/rockmetric-assignment/static/js/2.d20f288a.chunk.js.LICENSE.txt",
     "static/media/undraw_.svg": "/rockmetric-assignment/static/media/undraw_.5e09ece6.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.e88b5064.js",
     "static/css/2.0d230983.chunk.css",
     "static/js/2.d20f288a.chunk.js",
-    "static/css/main.7f487194.chunk.css",
-    "static/js/main.17ef5a86.chunk.js"
+    "static/css/main.2d5b04fb.chunk.css",
+    "static/js/main.e92899b0.chunk.js"
   ]
 }

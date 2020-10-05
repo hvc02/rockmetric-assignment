@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5ec779f90603875125ed15d115a50203",
+    "revision": "43b58739b4df07f92cd8a57f2fc16caa",
     "url": "/rockmetric-assignment/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rockmetric-assignment/static/css/2.0d230983.chunk.css"
   },
   {
-    "revision": "81e75bfe3fcd3da4c8b5",
-    "url": "/rockmetric-assignment/static/css/main.7f487194.chunk.css"
+    "revision": "528b81e26bee6e648933",
+    "url": "/rockmetric-assignment/static/css/main.2d5b04fb.chunk.css"
   },
   {
     "revision": "e946103060c661e9f625",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rockmetric-assignment/static/js/2.d20f288a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "81e75bfe3fcd3da4c8b5",
-    "url": "/rockmetric-assignment/static/js/main.17ef5a86.chunk.js"
+    "revision": "528b81e26bee6e648933",
+    "url": "/rockmetric-assignment/static/js/main.e92899b0.chunk.js"
   },
   {
     "revision": "3c43e27893ff3d941b9f",

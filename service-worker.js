@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rockmetric-assignment/precache-manifest.f21f1840a6fef1eb7d84a157cf63a679.js"
+  "/rockmetric-assignment/precache-manifest.e507b3af9e4b81a61c6c35e26372749d.js"
 );
 
 self.addEventListener('message', (event) => {
