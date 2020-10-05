@@ -19,7 +19,6 @@ export const Highchart = () => {
     try {
       const res = await fetch(url);
       const dataArr = await res.json();
-      // console.log(dataArr);
 
       dataArr.map((item) => {
         if (item.city === "Tokyo") tokyo.push(item.value);
@@ -87,7 +86,7 @@ export const Highchart = () => {
   }, [chartType]);
 
   return (
-    <div style={{ marginTop: 200 }}>
+    <div style={{ marginTop: 120 }}>
       <HighchartsReact highcharts={Highcharts} options={options} />
       <div className="cta-buttons">
         <Button

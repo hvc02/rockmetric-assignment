@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
 body {
   margin: 0;
-  font: 400 16px/28px "Poppins", sans-serif;
+  font: 400 16px "Poppins", sans-serif;
   color: #677294;
   padding: 0px;
   background-color: #fafafe;
@@ -27,7 +27,6 @@ body {
 .main-image > img {
   width: 100%;
   text-align: center;
-  vertical-align: middle;
 }
 .heading-primary {
   font-size: 50px;

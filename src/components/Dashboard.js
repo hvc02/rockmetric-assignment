@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-
 import { AgGridColumn, AgGridReact } from "ag-grid-react";
 import "ag-grid-community/dist/styles/ag-grid.css";
 import "ag-grid-community/dist/styles/ag-theme-material.css";
@@ -31,7 +30,7 @@ export const Dashboard = () => {
         <AgGridColumn
           field="date"
           filter={true}
-          // checkboxSelection={true}
+          checkboxSelection={true}
         ></AgGridColumn>
         <AgGridColumn field="city" filter={true}></AgGridColumn>
         <AgGridColumn field="value" filter={true}></AgGridColumn>
